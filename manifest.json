@@ -3,10 +3,9 @@
   "short_name": "BYFINA",
   "description": "A Progressive Web App",
   "start_url": "/index.html",
-  "scope": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#ffd3d3",
+  "theme_color": "#ffd3d3",
   "icons": [
     {
       "src": "/icons/icon-192x192.png",
@@ -40,6 +39,3 @@
     }
   ]
 }
-
-
-
